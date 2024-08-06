@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130507968360",
+    "project_id": "tuesday11june",
+    "storage_bucket": "tuesday11june.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130507968360:android:5da44a3dad2f4f3ada50dd",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOLiwMd9emT3wcEkxR9IkjfMoj4hvda44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130507968360:android:1d0f4ab32956fa6bda50dd",
+        "android_client_info": {
+          "package_name": "com.example.pickker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOLiwMd9emT3wcEkxR9IkjfMoj4hvda44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
